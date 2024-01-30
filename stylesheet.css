@@ -51,22 +51,11 @@ position: relative
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  display: grid;
+  place-items: center;
 }
 
-.Pic1 {
-  text-align: left;
 
-}
-
-.Pic2 {
-  text-align: center;
-
-}
-
-.Pic3 {
-  text-align: right;
-
-}
 
 .Fall_2023 :hover{
   color: lightblue;
