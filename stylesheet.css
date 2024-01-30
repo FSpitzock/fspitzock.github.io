@@ -11,6 +11,9 @@ head {
   max-height: 300px;
 }
 
+body {
+background-color: lightblue;
+}
 h1 {
   text-align: center; 
   background-color: darkorange;
