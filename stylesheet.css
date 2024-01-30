@@ -13,6 +13,7 @@ head {
 
 body {
   background-color: lightblue;
+  saturation: 0.750;
 }
 
 h1 {
