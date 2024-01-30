@@ -14,7 +14,7 @@ head {
 h1 {
   text-align: center; 
   background-color: darkorange;
-  color: rgba (0, 0, 0, 0.5)
+  color: rgba (0, 0, 0, 0.5);
   width: 100%;
   border: 5px solid black;
   border-radius: 10px;
