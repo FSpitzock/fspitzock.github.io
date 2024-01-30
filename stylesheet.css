@@ -13,7 +13,7 @@ head {
 
 body {
   background-image: url("https://c4.wallpaperflare.com/wallpaper/891/182/395/baseball-atlanta-braves-wallpaper-preview.jpg");
-  saturation: 0.350;
+  opacity: 0.50;
   position: center;
 }
 
