@@ -54,7 +54,17 @@ position: relative
 }
 
 .Pic1 {
-  text-align: ;
+  text-align: left;
+
+}
+
+.Pic2 {
+  text-align: center;
+
+}
+
+.Pic3 {
+  text-align: right;
 
 }
 
