@@ -64,8 +64,8 @@ position: relative
 
 
 .Fall_2023 :hover{
-  color: lightblue;
-  background-color: aqua;
+  color: white;
+  background-color: navy;
   opacity: 0.75;
   overflow: scroll; 
   }
