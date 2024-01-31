@@ -63,6 +63,31 @@ position: relative
 
 
 
+
+
+  td {
+  border: 1px solid black;
+}
+
+  th {
+  border: 1px solid black;
+}
+
+.Spring_2024 :hover {
+    color: white;
+    background-color: maroon; 
+ }
+
+ .Season_Spring_2024 {
+  text-align: center;
+  border: 1px solid blue;
+  position: relative;
+  alignment: center;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+ }
+
 .Fall_2023 :hover{
   color: white;
   background-color: navy;
@@ -79,28 +104,6 @@ position: relative
    text-align: center;
    cursor: pointer;
 }
-
-  td {
-  border: 1px solid black;
-}
-
-  th {
-  border: 1px solid black;
-}
-
-.Spring_2024 :hover {
-    color: red;
- }
-
- .Season_Spring_2024 {
-  text-align: center;
-  border: 1px solid blue;
-  position: relative;
-  alignment: center;
-  margin-left: auto;
-  margin-right: auto;
-  cursor: pointer;
- }
 
  .Legal_Info {
   text-align: center;
