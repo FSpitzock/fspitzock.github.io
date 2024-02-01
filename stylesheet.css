@@ -113,6 +113,7 @@ button {
   background-color: pink; 
   border-radius: 5px;
   box-shadow: 0px 4px;
+  margin: 0 auto; 
 }
  .Legal_Info {
   text-align: center;
