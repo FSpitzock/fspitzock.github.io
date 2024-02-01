@@ -107,6 +107,11 @@ position: relative
    
 }
 
+button {
+  text-align: center;
+  color: darkgreen;
+  background-color: pink; 
+}
  .Legal_Info {
   text-align: center;
   display: block;
