@@ -58,6 +58,10 @@ position: relative
   content: ">";
 }
 
+.breadcrumb:hover {
+color: red; 
+}
+
 .Pictures {
   position: relative;
   display: inline-block;
