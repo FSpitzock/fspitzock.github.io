@@ -49,6 +49,15 @@ display: inline-block;
 position: relative
 }
 
+.breadcromb > li {
+  display: inline;
+}
+
+.breadcromb li+li::before {
+  padding: 10px;
+  content: ">";
+}
+
 .Pictures {
   position: relative;
   display: inline-block;
