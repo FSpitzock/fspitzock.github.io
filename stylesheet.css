@@ -63,10 +63,13 @@ position: relative
 color: red; 
 }
 
+.container {
+    justify-content: space-between;
+}
+
 .Pictures {
   position: relative;
   display: inline-flex;
-  justify-content: space-between;
   top: 0px;
   alignment: center; 
   text-align: center;
