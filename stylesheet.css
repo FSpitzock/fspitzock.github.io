@@ -66,6 +66,7 @@ color: red;
 .Pictures {
   position: relative;
   display: inline-flex;
+  justify-content: center;
   top: 0px;
   alignment: center; 
   margin-left: auto;
