@@ -65,19 +65,14 @@ color: red;
 
 .Pictures {
   position: relative;
-  display: inline-block;
+  display: inline-flex;
   top: 0px;
   alignment: center; 
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  display: grid;
   place-items: center;
 }
-
-
-
-
 
   td {
   border: 1px solid black;
