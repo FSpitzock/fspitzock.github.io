@@ -33,6 +33,7 @@ h1 {
   display: inline-flex;
   z-index: 5;
   opacity: .850;
+  justify-content: center;
   
 }
 
