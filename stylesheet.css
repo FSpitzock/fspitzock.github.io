@@ -122,6 +122,11 @@ color: red;
    
 }
 
+.DNP {
+  alignment: center;
+  font-style: italic;
+}
+
 button {
   text-align: center;
   color: darkgreen;
