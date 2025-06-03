@@ -89,7 +89,7 @@ color: red;
 }
 
 .Fall_2024 :hover {
-    color: white;
+    color: black;
     background-color: red; 
     cursor: not-allowed;
  }
