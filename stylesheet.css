@@ -51,12 +51,12 @@ justify-content: center;
 position: relative
 }
 
-.breadcromb > li {
+.breadcrumb > li {
   display: inline;
   text-decoration: none; 
 }
 
-.breadcromb li+li::before {
+.breadcrumb li+li::before {
   padding: 10px;
   content: ">";
 }
