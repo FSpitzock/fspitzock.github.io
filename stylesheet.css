@@ -88,6 +88,22 @@ color: red;
   border: 1px solid black;
 }
 
+.Fall_2024_Owlz :hover {
+    color: gold;
+    background-color: black; 
+    cursor: not-allowed;
+ }
+
+ .Season_Fall_2024_Olwz {
+  text-align: center;
+  border: 1px solid blue;
+  position: relative;
+  alignment: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+ }
+
 .Fall_2024 :hover {
     color: black;
     background-color: red; 
